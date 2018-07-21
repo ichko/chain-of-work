@@ -1,4 +1,4 @@
-package ikoin
+package koin
 
 import java.math.BigInteger
 import java.security.MessageDigest
