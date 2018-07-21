@@ -1,4 +1,4 @@
-package koin
+package pow
 
 import java.math.BigInteger
 import java.security.MessageDigest

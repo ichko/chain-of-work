@@ -1,4 +1,4 @@
-package koin
+package pow
 
 class Miner(private val blockChain: BlockChain) {
     fun mine(data: String): Block {

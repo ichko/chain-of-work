@@ -1,5 +1,5 @@
-import koin.BlockChain
-import koin.Miner
+import pow.BlockChain
+import pow.Miner
 import java.util.*
 
 fun main(args: Array<String>) {
