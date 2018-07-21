@@ -1,7 +1,6 @@
 # Chain of work
 
-This repository contains simple proof of work based linked list container implemented in Kotlin
-
+This repository contains simple proof of work based linked list container implemented in Kotlin.
 The implemented is based on [this](https://github.com/VasilyFomin/kCoin) repo.
 
 ## Example
