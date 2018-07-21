@@ -1,4 +1,4 @@
-package pow
+package lib
 
 class BlockChain(difficulty: Int) {
     private val genesisBlock = Block("no-previous-hash", "no-data")
