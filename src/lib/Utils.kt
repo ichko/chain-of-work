@@ -1,4 +1,4 @@
-package pow
+package lib
 
 import java.math.BigInteger
 import java.security.MessageDigest
